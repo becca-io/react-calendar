@@ -59,7 +59,7 @@
     "all-contributors-cli": "6.26.1",
     "cz-conventional-changelog": "3.3.0",
     "date-fns": "2.30.0",
-    "esbuild": "0.24.0",
+    "esbuild": "0.24.2",
     "husky": "7.0.4",
     "jsdom": "^24.1.1",
     "lint-staged": "12.1.4",
